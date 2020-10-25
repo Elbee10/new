@@ -1,0 +1,28 @@
+body{
+  background: grey;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+li{
+  float: right;
+  overflow: hidden;
+}
+li a{
+  display: block;
+  padding: 14px 16px;
+}
+#header{
+  background: white;
+}
+#navBar{
+  float: right;
+}
+#imgHeader{
+  height: 2cm;
+  width: 4cm;
+  float: left;
+}
